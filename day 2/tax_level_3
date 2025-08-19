@@ -1,0 +1,10 @@
+import tax_level_2 as t2
+section_87A_rebate= 2500
+if t2.Taxable_Incomne <= 500000:
+    print('Eligible for Section 87A Rebate:', section_87A_rebate)
+else:
+    print('Not eligible for Section 87A Rebate')
+print('Taxable Income:', t2.Taxable_Income)
+print('Section 87A Rebate:', section_87A_rebate)
+print('Net Tax Payable:', t2.Taxable_Income - section_87A_rebate)
+print('Net Tax Payable:', t2.Taxable_Income)
