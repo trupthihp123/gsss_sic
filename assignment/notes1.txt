@@ -25,3 +25,13 @@ Accept a number and implement following programs:
 	5. Find sum of composite digits of the number.
 
 	why there is no index error in case of slicing?
+	implement a func find which mimics the find method of the string class
+
+	accept a number from the user and find the next possible smallest number which is bigger than the given number having all the digits of thr given number
+	67598
+
+	69432
+	69423
+
+
+74216

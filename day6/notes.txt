@@ -1,0 +1,10 @@
+FUNCTION CALL STACK:
+how functions work implicitly
+accumulator:it is used to store inyermediate results
+MAR:
+MDR:
+IR(instruction register): hold the address of the instruction that is currently running(getting executed)
+PC(program counter): hold the address of the next instruction to bbe executed
+SP(stack pointer): address of the top frame in the STACK
+FP(frame pointer): holds the address of the frame of function which is currently running
+FRAME: a frame is a memory allocated to a func during runtime

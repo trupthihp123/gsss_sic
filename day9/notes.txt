@@ -1,0 +1,5 @@
+bubble sort:
+its trivial(simpler,easier)and traditional way of sorting technique.Such kind of technique we call as BRUTE FORCE
+
+
+c++,js(es5,6),pdb v ss 
